@@ -1,0 +1,9 @@
+In meansd_merge set
+subject id: the id of experiment participants
+activity and Activity_id: the name and id of the activities measured
+other variables: the mean and standard deviation of each measurement (3-axial angular velocity at a constant rate of 50Hz)
+
+In average_merge set
+subject id: the id of experiment participants
+activity: the name of the activities measured
+others: the average of each variable for each activity and each subject
